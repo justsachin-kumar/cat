@@ -26,5 +26,5 @@ int main(int argc, char *argv[])
         printf("%c", ch);
     }
     //success
-    fclose(argv[1]);
+    fclose(file);
 }
